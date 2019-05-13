@@ -1,19 +1,22 @@
 # Tradingview Watchlist Import Files for Crypto Exchanges
 The list includes:</br>
-+Huobi-Tradingview-watchlist-BTC</br>
-+Huobi-Tradingview-watchlist-USDT</br>
-+Binance-Tradingview-watchlist-BTC</br>
-+Bittrex-Tradingview-watchlist-BTC</br>
-+Red list-My favorite list</br>
+<ul>
+<li>Huobi-Tradingview-watchlist-BTC</li>
+<li>Huobi-Tradingview-watchlist-USDT</li>
+<li>Binance-Tradingview-watchlist-BTC</li>
+<li>Bittrex-Tradingview-watchlist-BTC</li>
+<li>Red list-My favorite list</li>
+</ul>
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://www.upsieutoc.com/images/2019/05/13/2019-05-13_08-50-33.png"><img src="https://www.upsieutoc.com/images/2019/05/13/2019-05-13_08-50-33.png" alt="Tradingview Watchlists" data-canonical-src="https://www.upsieutoc.com/images/2019/05/13/2019-05-13_08-50-33.png" style="max-width:100%;"></a>
 </p>
 
 Usage:
-
-+Click "View raw" on the list you want to import below and save the file</br>
-+In Tradingview, choose "Import watchlist" and pick the file you want to import</br>
+<ul>
+<li>Click "View raw" on the list you want to import below and save the file</li>
+<li>In Tradingview, choose "Import watchlist" and pick the file you want to import</li>
+</ul>
 
 <blockquote>
 <p>★	★	★ <strong>If you use these, leave a comment or a star above</strong>	★	★	★</p>
