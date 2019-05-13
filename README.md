@@ -19,6 +19,6 @@ Usage:
 <p>★	★	★ <strong>If you use these, leave a comment or a star above</strong>	★	★	★</p>
 </blockquote>
 
-<p><a href="https://twitter.com/anhngt" rel="nofollow">+follow me on Twitter</a> if you want to know about updates to this or any of my other trading tools.</p>
+<p><a href="https://twitter.com/anhngt" rel="nofollow">+Follow me on Twitter</a> if you want to know about updates to this or any of my other trading tools.</p>
 <p><a href="https://t.me/vnrypto" rel="nofollow">+Update Channel Crypto News</a>
 <p><a href="https://t.me/vnryptogroup" rel="nofollow">+Group to discuss Crypto</a>
