@@ -1,10 +1,10 @@
 # Tradingview Watchlist Import Files for Crypto Exchanges
 The list includes:</br>
-Huobi-Tradingview-watchlist-BTC</br>
-Huobi-Tradingview-watchlist-USDT</br>
-Binance-Tradingview-watchlist-BTC</br>
-Bittrex-Tradingview-watchlist-BTC</br>
-Red list-My favorite list</br>
++Huobi-Tradingview-watchlist-BTC</br>
++Huobi-Tradingview-watchlist-USDT</br>
++Binance-Tradingview-watchlist-BTC</br>
++Bittrex-Tradingview-watchlist-BTC</br>
++Red list-My favorite list</br>
 
 Usage:
 
