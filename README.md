@@ -9,7 +9,7 @@ The list includes:</br>
 </ul>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://www.upsieutoc.com/images/2019/05/13/2019-05-13_08-50-33.png"><img src="https://www.upsieutoc.com/images/2019/05/13/2019-05-13_08-50-33.png" alt="Tradingview Watchlists" data-canonical-src="https://www.upsieutoc.com/images/2019/05/13/2019-05-13_08-50-33.png" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/227573323d7db80ff79f69cec8d893f09db69685/68747470733a2f2f692e696d6775722e636f6d2f6a655a706c6a432e706e67"><img src="https://camo.githubusercontent.com/227573323d7db80ff79f69cec8d893f09db69685/68747470733a2f2f692e696d6775722e636f6d2f6a655a706c6a432e706e67" alt="Tradingview Watchlists" data-canonical-src="https://camo.githubusercontent.com/227573323d7db80ff79f69cec8d893f09db69685/68747470733a2f2f692e696d6775722e636f6d2f6a655a706c6a432e706e67" style="max-width:100%;"></a>
 </p>
 
 Usage:
